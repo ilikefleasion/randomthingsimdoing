@@ -1,0 +1,25 @@
+{
+  "Animation": {
+    "SkeletonKnife2 Slash1": 130138966632389,
+    "SkeletonKnife2 Slash2": 114201289590216,
+    "SkeletonKnife2 Backstab": 129035280073260,
+    "SkeletonKnife2 Idle": 139411142523790,
+    "SkeletonKnife2 Equip": 111059691509334,
+    "SkeletonKnife2 Heavy": 104988424723395,
+    "Skeleton Inspect2": 137666560197549,
+    "SkeletonKnife2 Inspect": 133133390625858
+  },
+  "Audio": {
+    "skeletonknife_swing_1": 73500647018511,
+    "skeletonknife_inspect_1": 79864853511754,
+    "skeletonknife_inspect_2": 115578860506550,
+    "skeletonknife_swing_2": 106662269264119,
+    "skeletonknife_inspect_2alt": 114261203467008,
+    "skeletonknife_equip": 122454543352742,
+    "skeletonknife_swing_3": 73934943080974,
+    "skeletonknife_inspect_2 (2)": 89074656079809
+},
+  "Mesh": {
+    "Knife_low": 103014628107935
+  }
+}
